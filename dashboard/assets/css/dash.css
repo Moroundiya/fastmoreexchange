@@ -1,0 +1,256 @@
+.desh_bg {
+    height: 131px;
+    width: 100%;
+    background-image: url(../img/deshbg.png);
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+.desh_icon {
+    width: auto;
+    float: left;
+    margin-left: 35px;
+    margin-top: 18px;
+}
+
+.welcome {
+    width: auto;
+    float: left;
+    margin-left: 25px;
+    margin-top: 39px;
+}
+
+.welcome h3 {
+    color: #ff9900;
+    text-transform: capitalize;
+}
+
+.desh_user_right {
+    height: auto;
+    width: 320px;
+    float: right;
+}
+
+.duser_details {
+    height: auto;
+    width: auto;
+    border-radius: 4px;
+    display: table;
+    margin-top: 8px;
+    float: right;
+    padding: 11px 20px;
+    background: rgb(44, 50, 57);
+    background: -moz-linear-gradient(left, rgba(44, 50, 57, 1) 0%, rgba(65, 70, 76, 1) 100%);
+    background: -webkit-linear-gradient(left, rgba(44, 50, 57, 1) 0%, rgba(65, 70, 76, 1) 100%);
+    background: linear-gradient(to right, rgba(44, 50, 57, 0.17) 0%, rgba(65, 70, 76, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#2c3239', endColorstr='#41464c', GradientType=1);
+}
+
+.duser_details:first-child {
+    margin-top: 0px;
+}
+
+.duser_details p {
+    color: #fff;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+}
+
+.desh_down {
+    height: auto;
+
+    background-color: #ffffff;
+    overflow: hidden;
+    border: 1px solid#cccccc;
+    margin-top: 30px;
+}
+
+.desh_down_ {
+    height: auto;
+    width: 828px;
+    background-color: #ffffff;
+    overflow: hidden;
+    border: 1px solid#cccccc;
+}
+
+.balance_left {
+    height: auto;
+    width: 375px;
+    border-right: 1px solid#cccccc;
+    padding: 20px;
+    float: left;
+    overflow: hidden;
+}
+
+.balance_right {
+    height: auto;
+    float: left;
+    width: 372px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.balance_one {
+    height: auto;
+    width: 208px;
+    float: left;
+}
+
+.balance_icon {
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+.balance_tittle {
+    height: auto;
+    width: auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.balance_tittle p {
+    color: #000;
+    font-size: 20px;
+}
+
+.balace_btn1 {
+    height: auto;
+    float: left;
+    margin-left: 0px;
+    margin-top: 28px;
+}
+
+.deposit_withdraw {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.deposit_left {
+    height: auto;
+    width: 375px;
+    float: left;
+}
+
+.deposit_right {
+    height: auto;
+    width: 415px;
+    float: left;
+}
+
+.depsoit_head {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 5px;
+    border-bottom: 1px solid#cccccc;
+}
+
+.depsoit_head p {
+    font-size: 20px;
+    color: #000;
+    font-weight: 600;
+}
+
+.deposit_all {
+    height: auto;
+    width: 100%;
+    margin-top: 17px;
+    overflow: hidden;
+}
+
+.deposit_one {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 17px;
+    margin-top: 17px;
+    border-bottom: 1px solid#ccc;
+}
+
+.deposit_one:first-child {
+    margin-top: 0px;
+}
+
+.deposit_left_ {
+    height: auto;
+    width: auto;
+    float: left;
+    margin-top: 9px;
+}
+
+.deposit_left_ p {
+    font-size: 16px;
+}
+
+.deposit_right- {
+    height: auto;
+    width: 140px;
+    border-radius: 5px;
+    float: right;
+    display: table;
+    padding: 10px 15px;
+    background: rgb(253 149 24);
+    background: -moz-linear-gradient(left, rgba(171, 171, 171, 1) 0%, rgba(254, 254, 254, 1) 100%);
+    background: -webkit-linear-gradient(left, rgb(253 149 24) 0%, rgba(254, 254, 254, 1) 100%);
+    background: linear-gradient(to right, rgb(253 149 24) 0%, rgba(254, 254, 254, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ababab', endColorstr='#fefefe', GradientType=1);
+}
+
+.deposit_right- p {
+    font-size: 16px;
+}
+
+.main-referbg {
+    height: auto;
+    width: 100%;
+    background-color: #494949;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 14px 0px;
+}
+
+.main-referbg p {
+    color: #ffffff;
+    text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+    .welcome {
+        width: auto;
+        float: left;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .duser_details {
+        height: auto;
+        width: auto;
+        border-radius: 4px;
+        display: table;
+        margin-top: 8px;
+        /* float: right; */
+        padding: 0px 0px;
+        background: rgb(44, 50, 57);
+        background: -moz-linear-gradient(left, rgba(44, 50, 57, 1) 0%, rgba(65, 70, 76, 1) 100%);
+        background: -webkit-linear-gradient(left, rgba(44, 50, 57, 1) 0%, rgba(65, 70, 76, 1) 100%);
+        background: linear-gradient(to right, rgba(44, 50, 57, 0.17) 0%, rgba(65, 70, 76, 1) 100%);
+        filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#2c3239', endColorstr='#41464c', GradientType=1);
+    }
+
+    .desh_bg {
+        height: 241px;
+        width: 100%;
+        background-image: url(images/deshbg.png);
+        overflow: hidden;
+        background-position: cover;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+}
