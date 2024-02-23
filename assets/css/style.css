@@ -89,7 +89,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: blue;
+  color: #00008b;
   font-weight: 700;
   font-family: merriweather, serif
 }
@@ -132,7 +132,7 @@ h6:last-child {
   display: inline-block;
   width: 0;
   height: 0;
-  background-color: blue;
+  background-color: #00008b;
   color: #fff;
   -webkit-transition: width .5s ease-in-out, height .5s ease-in-out;
   transition: width .5s ease-in-out, height .5s ease-in-out;
@@ -149,7 +149,7 @@ h6:last-child {
 }
 
 .default-btn.two {
-  background-color: blue
+  background-color: #00008b
 }
 
 .default-btn.two span {
@@ -535,7 +535,7 @@ h6:last-child {
   height: 60px;
   border: none;
   border-radius: 30px;
-  color: blue;
+  color: #00008b;
   padding: 10px 30px
 }
 
@@ -543,28 +543,28 @@ h6:last-child {
   -webkit-transition: .5s;
   transition: .5s;
   letter-spacing: .5px;
-  color: blue
+  color: #00008b
 }
 
 .search-overlay .search-overlay-form form .input-search:-ms-input-placeholder {
   -webkit-transition: .5s;
   transition: .5s;
   letter-spacing: .5px;
-  color: blue
+  color: #00008b
 }
 
 .search-overlay .search-overlay-form form .input-search::-ms-input-placeholder {
   -webkit-transition: .5s;
   transition: .5s;
   letter-spacing: .5px;
-  color: blue
+  color: #00008b
 }
 
 .search-overlay .search-overlay-form form .input-search::placeholder {
   -webkit-transition: .5s;
   transition: .5s;
   letter-spacing: .5px;
-  color: blue
+  color: #00008b
 }
 
 .search-overlay .search-overlay-form form .input-search:focus::-webkit-input-placeholder {
@@ -605,7 +605,7 @@ h6:last-child {
 }
 
 .search-overlay .search-overlay-form form button:hover {
-  background-color: blue;
+  background-color: #00008b;
   color: #fff
 }
 
@@ -745,7 +745,7 @@ h6:last-child {
   padding: 8px 20px;
   position: relative;
   display: block;
-  color: blue;
+  color: #00008b;
   text-transform: capitalize;
   font-size: 14px
 }
@@ -777,7 +777,7 @@ h6:last-child {
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover,
@@ -794,7 +794,7 @@ h6:last-child {
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover,
@@ -811,7 +811,7 @@ h6:last-child {
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover,
@@ -828,7 +828,7 @@ h6:last-child {
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover,
@@ -845,7 +845,7 @@ h6:last-child {
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover,
@@ -862,7 +862,7 @@ h6:last-child {
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover,
@@ -987,7 +987,7 @@ h6:last-child {
 }
 
 .main-navbar.navbar-two .navbar .navbar-nav .nav-item a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-two .navbar .navbar-nav .nav-item a:hover,
@@ -1001,11 +1001,11 @@ h6:last-child {
 }
 
 .main-navbar.navbar-two .navbar .others-option .option-item .support p {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-two .navbar .others-option .option-item .support a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-two .navbar .others-option .option-item .support a:hover {
@@ -1017,7 +1017,7 @@ h6:last-child {
 }
 
 .main-navbar.navbar-two .navbar .others-option .option-item .side-menu-btn i {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-three {
@@ -1029,7 +1029,7 @@ h6:last-child {
 }
 
 .main-navbar.navbar-three .navbar .navbar-nav .nav-item a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-three .navbar .navbar-nav .nav-item a:hover,
@@ -1043,11 +1043,11 @@ h6:last-child {
 }
 
 .main-navbar.navbar-three .navbar .others-option .option-item .support p {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-three .navbar .others-option .option-item .support a {
-  color: blue
+  color: #00008b
 }
 
 .main-navbar.navbar-three .navbar .others-option .option-item .support a:hover {
@@ -1059,7 +1059,7 @@ h6:last-child {
 }
 
 .main-navbar.navbar-three .navbar .others-option .option-item .side-menu-btn i {
-  color: blue
+  color: #00008b
 }
 
 .navbar-area.is-sticky {
@@ -1088,7 +1088,7 @@ h6:last-child {
 }
 
 .navbar-area.is-sticky .main-navbar .navbar .navbar-nav .nav-item a {
-  color: blue
+  color: #00008b
 }
 
 .navbar-area.is-sticky .main-navbar .navbar .navbar-nav .nav-item a:hover,
@@ -1098,11 +1098,11 @@ h6:last-child {
 }
 
 .navbar-area.is-sticky .main-navbar .navbar .others-option .option-item .support p {
-  color: blue
+  color: #00008b
 }
 
 .navbar-area.is-sticky .main-navbar .navbar .others-option .option-item .support a {
-  color: blue
+  color: #00008b
 }
 
 .navbar-area.is-sticky .main-navbar .navbar .others-option .option-item .support a:hover {
@@ -1110,7 +1110,7 @@ h6:last-child {
 }
 
 .navbar-area.is-sticky .main-navbar .navbar .others-option .option-item .side-menu-btn i {
-  color: blue
+  color: #00008b
 }
 
 @media only screen and (max-width:1199px) {
@@ -1306,7 +1306,7 @@ h6:last-child {
 
 .features-card.two {
   padding-bottom: 30px;
-  background-color: blue
+  background-color: #00008b
 }
 
 .features-card.two::before {
@@ -1314,7 +1314,7 @@ h6:last-child {
 }
 
 .features-card.two:hover {
-  background-color: blue;
+  background-color: #00008b;
   border-radius: 10px 10px 10px 10px
 }
 
@@ -1569,19 +1569,19 @@ h6:last-child {
 }
 
 .offer-card.two h3 a {
-  color: blue;
+  color: #00008b;
   -webkit-transition: .5s;
   transition: .5s
 }
 
 .offer-card.two p {
-  color: blue;
+  color: #00008b;
   -webkit-transition: .5s;
   transition: .5s
 }
 
 .offer-card.two .offer-btn a {
-  color: blue;
+  color: #00008b;
   -webkit-transition: .5s;
   transition: .5s
 }
@@ -1592,11 +1592,11 @@ h6:last-child {
 }
 
 .offer-card.two:hover {
-  background-color: blue
+  background-color: #00008b
 }
 
 .offer-card.two:hover::before {
-  background-color: blue;
+  background-color: #00008b;
   opacity: 1
 }
 
@@ -1752,7 +1752,7 @@ h6:last-child {
 }
 
 .offer-card:hover h3 a {
-  color: blue
+  color: #00008b
 }
 
 .offer-card:hover p {
@@ -1941,7 +1941,7 @@ h6:last-child {
 }
 
 .fun-fact-card .span {
-  color: blue;
+  color: #00008b;
   font-weight: 600;
   display: inline-block;
   margin-bottom: 5px;
@@ -2034,11 +2034,11 @@ h6:last-child {
 }
 
 .case-study-card .caption h3 a {
-  color: blue
+  color: #00008b
 }
 
 .case-study-card .caption .case-study-btn a {
-  color: blue
+  color: #00008b
 }
 
 .case-study-card .caption .case-study-btn a i {
@@ -2185,7 +2185,7 @@ h6:last-child {
 .testimonials-and-faq .faq-content::before {
   content: '';
   position: absolute;
-  background-color: blue;
+  background-color: #00008b;
   width: 100%;
   height: 100%;
   top: 0;
@@ -2340,7 +2340,7 @@ h6:last-child {
 }
 
 .blog-card .blog-text h3 a {
-  color: blue
+  color: #00008b
 }
 
 .blog-card .blog-text .blog-btn {
@@ -2348,7 +2348,7 @@ h6:last-child {
 }
 
 .blog-card .blog-text .blog-btn a {
-  color: blue
+  color: #00008b
 }
 
 .blog-card .blog-text .blog-btn a i {
@@ -2376,7 +2376,7 @@ h6:last-child {
 }
 
 .footer-area {
-  background-color: blue
+  background-color: #00008b
 }
 
 .footer-area .footer-widget {
@@ -3083,7 +3083,7 @@ h6:last-child {
 }
 
 .service-card h3 a {
-  color: blue
+  color: #00008b
 }
 
 .service-card:hover a {
@@ -3685,7 +3685,7 @@ h6:last-child {
   -webkit-box-shadow: 0 0 20px #dbdbdb;
   box-shadow: 0 0 20px #dbdbdb;
   background-color: #fff;
-  color: blue;
+  color: #00008b;
   width: 45px;
   height: 45px;
   line-height: 45px;
@@ -3855,7 +3855,7 @@ h6:last-child {
 }
 
 .widget-area .widget.widget-about-me a {
-  color: blue
+  color: #00008b
 }
 
 .widget-area .widget.widget-about-me a i {
@@ -3877,7 +3877,7 @@ h6:last-child {
 
 .widget-area .widget.widget-follow-on .social-link li a i {
   background-color: #e5eeff;
-  color: blue;
+  color: #00008b;
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -3885,7 +3885,7 @@ h6:last-child {
   border-radius: 50%;
   -webkit-transition: .5s;
   transition: .5s;
-  color: blue
+  color: #00008b
 }
 
 .widget-area .widget.widget-follow-on .social-link li:hover a i {
@@ -3911,7 +3911,7 @@ h6:last-child {
 }
 
 .widget-area .widget.widget-categories .categories-list li a {
-  color: blue;
+  color: #00008b;
   font-size: 15px;
   padding: 10px 0;
   display: block
@@ -3948,7 +3948,7 @@ h6:last-child {
   line-height: 60px;
   text-align: center;
   border-radius: 50%;
-  color: blue;
+  color: #00008b;
   margin-bottom: 10px
 }
 
@@ -3982,7 +3982,7 @@ h6:last-child {
 }
 
 .widget-area .widget.widget-post .popular-post h4 a {
-  color: blue
+  color: #00008b
 }
 
 .widget-area .widget.widget-post .popular-post h4 a:hover {
@@ -4012,7 +4012,7 @@ h6:last-child {
 .widget-area .widget.widget-tags .tags li a {
   display: block;
   background-color: #f7f1f1;
-  color: blue;
+  color: #00008b;
   padding: 15px 20px;
   border-radius: 5px;
   font-size: 16px
@@ -4052,7 +4052,7 @@ h6:last-child {
   display: inline-block;
   font-size: 13px;
   margin-right: 30px;
-  color: blue
+  color: #00008b
 }
 
 .blog-details-area .blog-details .details-content .list li i {
@@ -4061,7 +4061,7 @@ h6:last-child {
 
 .blog-details-area .blog-details .details-content .list li a {
   font-size: 14px;
-  color: blue
+  color: #00008b
 }
 
 .blog-details-area .blog-details .details-content .list li a:hover {
@@ -4149,10 +4149,10 @@ h6:last-child {
 
 .blog-details-area .blog-details .details-content .share-content .social-link li a i {
   background-color: #fff;
-  border: 1px solid blue;
+  border: 1px solid #00008b;
   margin-right: 5px;
   border-radius: 50%;
-  color: blue;
+  color: #00008b;
   width: 25px;
   height: 25px;
   line-height: 25px;
@@ -4205,7 +4205,7 @@ h6:last-child {
 }
 
 .blog-details-area .blog-details .details-content .share-content .tag-list li a:hover {
-  color: blue
+  color: #00008b
 }
 
 .blog-details-area .blog-details .blog-comment h3 {
@@ -4325,7 +4325,7 @@ h6:last-child {
 }
 
 .contact-card ul li a {
-  color: blue
+  color: #00008b
 }
 
 .contact-card ul li a:hover {
@@ -4359,12 +4359,12 @@ h6:last-child {
 }
 
 .faq-area .faq-accordion .accordion li .title {
-  color: blue
+  color: #00008b
 }
 
 .faq-area .faq-accordion .accordion li .title:after {
-  border-right: 1px solid blue;
-  border-bottom: 1px solid blue
+  border-right: 1px solid #00008b;
+  border-bottom: 1px solid #00008b
 }
 
 .faq-area .faq-accordion .accordion li .accordion-content p {
@@ -4885,7 +4885,7 @@ h6:last-child {
 }
 
 .plan-box {
-  background: blue;
+  background: #00008b;
   padding: 10px;
   border-radius: 8px;
   margin: 0px;
